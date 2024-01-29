@@ -170,7 +170,7 @@ const NavList = (props) => {
           </ListItemIcon>
           <ListItemText primary={t("nav_button_settings")} />
         </ListItemButton>
-        <ListItemButton onClick={() => openUrl("/docs")}>
+        <ListItemButton onClick={() => openUrl("https://docs.ntfy.sh/")}>
           <ListItemIcon>
             <ArticleIcon />
           </ListItemIcon>
