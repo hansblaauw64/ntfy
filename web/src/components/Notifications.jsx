@@ -652,7 +652,7 @@ const ForMoreDetails = () => (
   <Trans
     i18nKey="notifications_more_details"
     components={{
-      websiteLink: <Link href="https://ntfy.sh" target="_blank" rel="noopener" />,
+      websiteLink: <Link href="https://things.io/notifications" target="_blank" rel="noopener" />,
       docsLink: <Link href="https://ntfy.sh/docs" target="_blank" rel="noopener" />,
     }}
   />
